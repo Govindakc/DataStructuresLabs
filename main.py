@@ -55,7 +55,7 @@ if _input is "0":
     # Function will be called to read the file.
     read_file()
     # This line prints the nodes count and height in total
-    print("RedBlack Tree Tree has "+ str(len(tree)) + ' nodes')
+    print("RedBlack Tree has "+ str(len(tree)) + ' nodes')
     print('and')
     print("It's height is " + str(tree._height()))
 
